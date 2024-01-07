@@ -1,0 +1,5 @@
+*.zip
+archive/
+.ipynb_checkpoints/
+stanford-ribonanza-rna-folding/
+stanford-ribonanza-rna-folding-converted/
