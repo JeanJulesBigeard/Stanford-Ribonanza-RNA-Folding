@@ -2,6 +2,8 @@
 
 ### Description:
 
+[Homepage](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding)
+
 Ribonucleic acid (RNA) is essential for most biological functions. A better understanding of how to manipulate RNA could help usher in an age of programmable medicine, including first cures for pancreatic cancer and Alzheimer’s disease as well as much-needed antibiotics and new biotechnology approaches for climate change. But first, researchers must better understand each RNA molecule's structure, an ideal problem for data science.
 
 Recent efforts to predict RNA structure have run into a number of challenges: (1) a paucity of training data, (2) lack of intellectual and computational power, and (3) difficulties in rigorously splitting training and test data. Can a Kaggle competition close these gaps?
@@ -21,3 +23,5 @@ Learn more about [DMS](https://academic.oup.com/nar/article/51/16/8744/7201944)
 ![image](https://github.com/JeanJulesBigeard/Stanford-Ribonanza-RNA-Folding/assets/48935007/ab29e1a5-e35b-4e8e-b5df-423b531817f5)
 
 learn more about [2A3](https://academic.oup.com/nar/article/49/6/e34/6062772)
+
+TFRecords dataset version can be find [here](https://www.kaggle.com/datasets/shlomoron/srrf-tfrecords-ds)
